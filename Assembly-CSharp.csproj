@@ -45,8 +45,10 @@
      <Compile Include="Assets\!SCRIPTS\ObjectPool.cs" />
      <Compile Include="Assets\!SCRIPTS\Enemy.cs" />
      <Compile Include="Assets\!SCRIPTS\EnemyHealth.cs" />
+     <Compile Include="Assets\Pathfinding\NodeClass.cs" />
      <Compile Include="Assets\!SCRIPTS\CoordinateLabel.cs" />
      <Compile Include="Assets\!SCRIPTS\WayPoint.cs" />
+     <Compile Include="Assets\Pathfinding\GridManager.cs" />
      <Compile Include="Assets\!SCRIPTS\EnemyScript.cs" />
      <Compile Include="Assets\!SCRIPTS\TowerScript.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
